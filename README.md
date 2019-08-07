@@ -1,2 +1,2 @@
 # bea-init
-edu-ini
+edu-ini , bea 
